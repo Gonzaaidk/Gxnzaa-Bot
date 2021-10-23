@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/Gonzaaidk"><img title="Author" src="https://img.shields.io/badge/Author-FxBot Team-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/35796444364">FxBot Team >//< </a>
+  <a href="https://wa.me/35796444364">Gxnzaa Bot >//< </a>
 </h4>
 </p>
 
@@ -18,8 +18,8 @@
 ```bash
 > pkg install git
 > pkg install ffmpeg
-> git clone https://github.com/Gonzaaidk/Gx
-> cd Gx
+> git clone https://github.com/Gonzaaidk/Gxnzaa-Bot
+> cd Gxnzaa-Bot
 > npm start/node index.js
 ```
 
